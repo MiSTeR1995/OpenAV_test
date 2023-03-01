@@ -173,3 +173,6 @@ latex_elements = {
 latex_documents = [
   ('index', 'PDF.tex', u'PDF', u'OpenAV', 'manual'),
 ]
+
+#GIT TOKEN
+changelog_github_token = os.environ.get("CHANGELOG_GITHUB_TOKEN")

@@ -2,5 +2,5 @@
 ================
 
 .. changelog::
-    :changelog-url: https://openav-dev.readthedocs.io/ru/latest/changelog.html
-    :github: https://github.com/DmitryRyumin/OpenAV/releases/
+    :changelog-url: https://openav-test.readthedocs.io/ru/latest/changelog.html
+    :github: https://github.com/MiSTeR1995/OpenAV_test/releases/
