@@ -175,4 +175,4 @@ latex_documents = [
 ]
 
 #GIT TOKEN
-changelog_github_token = os.environ.get("CHANGELOG_GITHUB_TOKEN")
+sphinx_github_changelog_token = os.environ.get("CHANGELOG_GITHUB_TOKEN")
