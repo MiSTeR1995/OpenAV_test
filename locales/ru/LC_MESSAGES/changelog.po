@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenAV 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-01 17:02+0300\n"
+"POT-Creation-Date: 2023-03-03 14:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ru\n"
@@ -23,6 +23,14 @@ msgstr ""
 
 #: ../../source/changelog.rst:2 e0baaa5b4e1c427cb7118a3641f6365c
 msgid "Изменения версий"
+msgstr ""
+
+#: ../../source/changelog.rst:-1 1d50b4da5302492c8179f60b9ab90a01
+msgid "1.2.0"
+msgstr ""
+
+#: ../../source/changelog.rst:-1 665fa7f0f0ac4dc7856e693db966711b
+msgid "1.1.1"
 msgstr ""
 
 #~ msgid "Changelog"
